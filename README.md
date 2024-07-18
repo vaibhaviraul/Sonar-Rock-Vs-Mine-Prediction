@@ -1,0 +1,1 @@
+•	This project is to developed a machine learning model to accurately distinguish between rocks and mine using SONAR signals, enhancing naval security and maritime safety by overcoming existing limitations.
